@@ -12,7 +12,7 @@ Literature reviews, database screening and domain knowledge was necessary to com
 
 Although this methodology was useful, the Data Science team expanded the search for small molecules and contributing factors to Alzheimer's disease by conducting and exploratory and predictive analysis. Several proposals were sent out and ultimately led to the use of ADNI data from LONI (http://adni.loni.usc.edu/about/). Two workflows are being conducted, an exploratory longitudinal study and a exploratory instance analysis. These differ by looking at survival rates over the entire ADNI study cohorts (1, Go, 2 and 3) and top performing features that contribute to a diagnosis of AD. 
 
-About Code 
+### About Code 
 This code is for the instance analysis of AD. Multiple multiclass predictive models are used (Logistic regression, random forest, SVM, DTs to name a few). Additionally, feature selection, importance and extraction are all done through a variety of models including RFE, RF and ETC. The code is run from a singular jupyter notebook, but I may break them up by models in the future. 
 
 Results 
