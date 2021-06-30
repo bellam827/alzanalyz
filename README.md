@@ -15,4 +15,36 @@ Although this methodology was useful, the Data Science team expanded the search 
 ### About Code 
 This code is for the instance analysis of AD. Multiple multiclass predictive models are used (Logistic regression, random forest, SVM, DTs to name a few). Additionally, feature selection, importance and extraction are all done through a variety of models including RFE, RF and ETC. The code is run from a singular jupyter notebook, but I may break them up by models in the future. 
 
-Results 
+Predictive Models and Classifiers 
+- Logistic Regression 
+- Random Forest Classifier
+- KNeighbors Classifier
+- MLP Classifier
+- Decision Tree Classifier
+- SVM
+- SGD Classifier
+
+Feature Importance Tests: 
+- Random Forest 
+- Decision Trees
+- Extra Tree Classifier / Prediction 
+
+Feature Selection and Elimination 
+- Recursive Feature Elimination with Logistic Regression
+
+Univariate Statistical Test
+- SelectKBest using ANOVA 
+
+Interpretation Library (Pending)
+- LIME 
+
+### Data 
+The data is used from ADNI, and is broken into separate cohorts. Data is in the following formats: 
+
+- ADNI1,GO,2
+- ADNI3 
+- Biomarkers from ADNI1,GO,2
+
+
+
+### Results 
