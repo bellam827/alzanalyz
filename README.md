@@ -14,6 +14,7 @@ Although this methodology was useful, the Data Science team expanded the search 
 
 ### About Code 
 This code is for the instance analysis of AD. Multiple multiclass predictive models are used (Logistic regression, random forest, SVM, DTs to name a few). Additionally, feature selection, importance and extraction are all done through a variety of models including RFE, RF and ETC. The code is run from a singular jupyter notebook, but I may break them up by models in the future. 
+Portions of code was borrowed from 
 
 Predictive Models and Classifiers 
 - Logistic Regression 
@@ -45,6 +46,7 @@ The data is used from ADNI, and is broken into separate cohorts. Data is in the 
 - ADNI3 
 - Biomarkers from ADNI1,GO,2
 
+Permission was recieved from ADNI @ LONI for access to their datasets. 
 
 
 ### Results 
