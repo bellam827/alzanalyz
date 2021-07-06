@@ -48,5 +48,5 @@ The data is used from ADNI, and is broken into separate cohorts. Data is in the 
 
 Permission was recieved from ADNI @ LONI for access to their datasets. 
 
-
 ### Results 
+The results from this exploratory analysis are posted in a private drive for HC-SRI21 
