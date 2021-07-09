@@ -1,6 +1,10 @@
 # alzanalyz
 ## Predictive models and Feature analysis for ALZ-SRI-HC-SUM21
 
+![image](https://user-images.githubusercontent.com/60203620/125088082-12821600-e09b-11eb-8fdc-a7f106a35b6d.png)
+
+### A significant portion of this code is given credit to https://github.com/grantgasser/Alzheimers-Prediction 
+
 ### About Research
 - Multidisciplinary Research Group of undergraduate and postgraduate students 
 - Biochemistry and Data Science teams focused on the inhibition of Amyloid Beta 1-42 aggregation through computational, in vitro and in vivo analysis
