@@ -1,11 +1,12 @@
 # alzanalyz
-## Predictive models and Feature analysis for ALZ-SRI-HC-SUM21
+## Predictive Models and Feature Evaluation for ALZ-SRI-HC-SUM21
+- Under the supervision of Dr. Paul Martino and Carmen McKell 
 
 ![image](https://user-images.githubusercontent.com/60203620/125088082-12821600-e09b-11eb-8fdc-a7f106a35b6d.png)
 
 ### A significant portion of this code is given credit to https://github.com/grantgasser/Alzheimers-Prediction 
 
-### About Research
+### About our Research
 - Multidisciplinary Research Group of undergraduate and postgraduate students 
 - Biochemistry and Data Science teams focused on the inhibition of Amyloid Beta 1-42 aggregation through computational, in vitro and in vivo analysis
 - 10 week Research term aiding Dr. Paul Martino's ongoing Alzheimer's Research for drug repurposing 
@@ -18,7 +19,6 @@ Although this methodology was useful, the Data Science team expanded the search 
 
 ### About Code 
 This code is for the instance analysis of AD. Multiple multiclass predictive models are used (Logistic regression, random forest, SVM, DTs to name a few). Additionally, feature selection, importance and extraction are all done through a variety of models including RFE, RF and ETC. The code is run from a singular jupyter notebook, but I may break them up by models in the future. 
-Portions of code was borrowed from 
 
 Predictive Models and Classifiers 
 - Logistic Regression 
